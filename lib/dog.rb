@@ -5,6 +5,4 @@ class Dog
     @breed = breed
   end  
   
-  puts "Mutt"
-  
 end
